@@ -1,5 +1,6 @@
 # 2022-VR-dynamic-GrIS
-Scripts and plots for paper Yin et al. (2025) "Improved Understanding of Multicentury Greenland Ice Sheet Response to Strong Warming in the Coupled CESM2-CISM2 With Regional Grid Refinement" published on *Journal of Advances in Modeling Earth Systems*
+
+This repository contains the analyzing and plotting scripts and the resulting plots for paper Yin et al. (2025) "Improved Understanding of Multicentury Greenland Ice Sheet Response to Strong Warming in the Coupled CESM2-CISM2 With Regional Grid Refinement" published on *Journal of Advances in Modeling Earth Systems* [https://doi.org/10.1029/2024MS004310](https://doi.org/10.1029/2024MS004310)
 
 
 ## Contents
@@ -25,9 +26,9 @@ The model simulations include:
 
 Simulation output is stored on NCAR HPC systems and is not included in this repository because of file size limitations.
 
-Users interested in reproducing the analyses should contact the corresponding author.
+Users interested in the raw model output should contact the corresponding author.
 
-Preprocessed data used by the plotting scripts are stored in an open repository Zenodo (Herrington & Yin, [2024](https://zenodo.org/records/15049546)).
+Preprocessed data used by the analyzing and plotting scripts are stored in an open repository Zenodo (Herrington & Yin, [2024](https://zenodo.org/records/15049546)).
 
 
 ## Notes
