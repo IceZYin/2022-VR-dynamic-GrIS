@@ -38,7 +38,9 @@ Users interested in reproducing the analyses should contact the corresponding au
 ## Contact
 
 Ziqi Yin
+
 Department of Atmospheric and Oceanic Sciences
+
 University of Colorado Boulder
 
 Email: ziqi.yin@colorado.edu
