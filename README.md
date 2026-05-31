@@ -16,7 +16,7 @@ Scripts and plots for paper Yin et al. (2025) "Improved Understanding of Multice
 
 ## Data
 
-The analyses use output from coupled CESM2.2-CISM2.1 simulations.
+The analyses use output from coupled CESM2-CISM2 simulations.
 
 The model simulations include:
 
@@ -26,6 +26,8 @@ The model simulations include:
 Simulation output is stored on NCAR HPC systems and is not included in this repository because of file size limitations.
 
 Users interested in reproducing the analyses should contact the corresponding author.
+
+Preprocessed data used by the plotting scripts are stored in an open repository Zenodo (Herrington & Yin, [2024](https://zenodo.org/records/15049546)).
 
 
 ## Notes
