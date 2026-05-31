@@ -7,12 +7,23 @@ This repository contains the analyzing and plotting scripts and the resulting pl
 
 | Directory | Description |
 |------------|------------|
-| Figure1 | Greenland Ice Sheet and climate model configuration |
-| Figure2 | Surface mass balance and melt evolution |
-| Figure3 | Spatial patterns of melt and albedo changes |
-| Figure4 | Atmospheric circulation and radiation diagnostics |
-| Figure5 | Ice sheet response and feedback analysis |
-| Supplementary | Scripts used for supplementary figures |
+| Figure 1 | CESM2 variable-resolution Arctic grid and topography |
+| Figure 2 | Evolution of climate forcing, temperature, mass balance, and surface energy balance |
+| Figure 3 | Simulated Greenland Ice Sheet albedo, surface mass balance, thickness, and velocity changes |
+| Figure 4 | Greenland Blocking Index evolution |
+| Figure 5 | Atmospheric circulation changes: 500 hPa geopotential height |
+| Figure 6 | Lower-tropospheric and near-surface temperature differences |
+| Figure 7 | Ocean circulation, freshwater flux, and sea ice evolution |
+| Figure 8 | Greenland Ice Sheet mass balance, volume loss, and sea-level contribution |
+| Figure 9 | Spatial differences in precipitation, refreezing, melt, and ice thickness |
+| Figure 10 | Cloud liquid water and surface radiative flux differences |
+| Figure 11 | Melt energy and surface energy balance component differences |
+| Figure 12 | Evolution of surface energy balance component differences |
+| Figure 13 | Greenland Ice Sheet melt–albedo feedback differences |
+| Figure 14 | Surface albedo evolution and temperature relationships |
+| Figure 15 | Area–elevation distributions and ice sheet–climate model elevation consistency |
+| Figure 16 | Equilibrium line altitude and ablation area evolution |
+| Supplementary | Scripts used to generate supplementary figures and analyses |
 
 
 ## Data
