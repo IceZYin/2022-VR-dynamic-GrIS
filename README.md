@@ -23,7 +23,16 @@ This repository contains the analyzing and plotting scripts and the resulting pl
 | Figure 14 | Surface albedo evolution and temperature relationships |
 | Figure 15 | Area–elevation distributions and ice sheet–climate model elevation consistency |
 | Figure 16 | Equilibrium line altitude and ablation area evolution |
-| Supplementary | Scripts used to generate supplementary figures and analyses |
+| Figure S1 | Examples of albedo feedback calculation |
+| Figure S2 | Additional cloud and radiation variable differences |
+| Figure S3 | Evolution of Greenland Ice Sheet-averaged temperature and humidity |
+| Figure S4 | Sea ice concentration and evaporation differences |
+| Figure S5 | Surface energy balance differences during the pre-industrial period |
+| Figure S6 | Surface energy balance differences with initial differences removed |
+| Figure S7 | Greenland Ice Sheet albedo feedback maps |
+| Figure S8 | Surface elevation differences |
+| Figure S9 | Atmosphere model surface elevation along transects |
+| Figure S10 | Hypsometric cumulative area–surface elevation relationships for different basins |
 
 
 ## Data
