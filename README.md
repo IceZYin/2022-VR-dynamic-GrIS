@@ -7,7 +7,7 @@ This repository contains the analyzing and plotting scripts and the resulting pl
 
 | Figure | Description |
 |------------|------------|
-| Figure 1 | CESM2 variable-resolution Arctic grid and topography |
+| [Figure 1](script/compare_topography.ipynb) | CESM2 variable-resolution Arctic grid and topography |
 | Figure 2 | Evolution of climate forcing, temperature, mass balance, surface mass balance, and surface energy balance |
 | Figure 3 | Simulated Greenland Ice Sheet albedo, surface mass balance, thickness, and velocity changes |
 | Figure 4 | Greenland Blocking Index evolution |
